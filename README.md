@@ -1,6 +1,6 @@
 <h1>My Working Stopwatch</h1>
 
-<a href="https://codepen.io/danjcooper/pen/JjXwgJM">Click here to see it in action</a>
+<a href="https://codepen.io/danjcooper/full/JjXwgJM">Click here to see it in action</a>
 
 <p>I learned a lot making this stopwatch</p>
 <ul>
